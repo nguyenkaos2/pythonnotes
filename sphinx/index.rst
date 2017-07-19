@@ -1,35 +1,24 @@
 :orphan:
 
-.. note::
 
-   You can donate me for my hardwork if you want to by buying the donation version of Intermediate Python from `Gumroad <https://gumroad.com/l/intermediate_python>`__. Your help would be greatly appreciated!
-
-   You can also sign up to my `mailing list <http://eepurl.com/bwjcej>`__ so that you remain in sync with any major updates to this book or my future projects!
-
-Intermediate Python
+Pythonista Notes
 ===================
 
 ============
 Preface
 ============
+ 
+This site contains my notes when I learn and work, also through my mistakes in python.
 
-Python is an amazing language with a strong and friendly community of programmers. However, there is a lack of documentation on what to learn after getting the basics of Python down your throat. Through this book I aim to solve this problem. I would give you bits of information about some interesting topics which you can further explore.
+I write this site, before, to keep my notes always on internet, then to share with you my experience. Please note that this site is not a tutorial and does not teach you Python. The topics are not explained in depth, instead only the minimum required information is given.
 
-The topics which are discussed in this book open up your mind towards some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.
-
-If you are a beginner, intermediate or even an advanced programmer there is something for you in this book.
-
-Please note that this book is not a tutorial and does not teach you Python. The topics are not explained in depth, instead only the minimum required information is given.
-
-I am sure you are as excited as I am so let’s start!
-
-**Note:** This book is a continuous work in progress. If you find anything which you can further improve (I know you will find a lot of stuff) then kindly submit a pull request!
+The If you are a beginner or even an intermediate programmer in python, there is something for you in this site. Let's start !!!
 
 ==================
 Author
 ==================
 
-I am Muhammad Yasoob Ullah Khalid. I have been programming extensively in Python for over 3 years now. I have been involved in a lot of Open Source projects. I regularly blog about interesting Python topics over at my `blog <http://www.pythontips.com>`_ . In 2014 I also spoke at EuroPython which was held in Berlin. It is the biggest Python conference in Europe. If you have an interesting Internship opportunity for me then I would definitely like to hear from you!
+I am NGUYEN Cao-Cuong. I have been programming extensively in Python for almost 3 years now and I still learn this language everydays. I'm relatively comfortable throughtout the language, having used it for a variety of simulations or build the web applications (Django).
 
 ==================
 Table of Contents
@@ -40,4 +29,6 @@ Table of Contents
    :numbered:
 
    CaoNotes
-   args_and_kwargs
+   intro
+   quickstart
+   
