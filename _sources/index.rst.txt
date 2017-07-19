@@ -29,5 +29,4 @@ Table of Contents
    :numbered:
 
    CaoNotes
-   intro
    
