@@ -10,7 +10,7 @@ Preface
  
 This site contains my notes when I learn and work, also through my mistakes in python.
 
-I write this site, before, to keep my notes always on internet, then to share with you my experience. Please note that this site is not a tutorial and does not teach you Python. The topics are not explained in depth, instead only the minimum required information is given.
+I write this site, before, to keep my notes always on internet, then to share with you my experience. Please note that this site is not a tutorial and does not teach you Python. The topics are not explained in depth, instead only the minimum required information is given. Each of topics contain 2 section, one is very basic and the other is the pyhon tips, which I found in my work or on internet.
 
 The If you are a beginner or even an intermediate programmer in python, there is something for you in this site. Let's start !!!
 
@@ -28,5 +28,11 @@ Table of Contents
    :maxdepth: 2
    :numbered:
 
-   CaoNotes
-   
+   Types
+   Types_Numbers
+   Types_Sequences_String
+   Types_Sequences_Unicode
+   Types_Sequences_List
+   Types_Sequences_Tuple
+   Types_MappingSet_Dict
+   Types_MappingSet_Set
