@@ -1,24 +1,8 @@
 :orphan:
 
 
-Pythonista Notes
+Python Notes
 ===================
-
-============
-Preface
-============
- 
-This site contains my notes when I learn and work, also through my mistakes in python.
-
-I write this site, before, to keep my notes always on internet, then to share with you my experience. Please note that this site is not a tutorial and does not teach you Python. The topics are not explained in depth, instead only the minimum required information is given. Each of topics contain 2 section, one is very basic and the other is the pyhon tips, which I found in my work or on internet.
-
-The If you are a beginner or even an intermediate programmer in python, there is something for you in this site. Let's start !!!
-
-==================
-Author
-==================
-
-I am NGUYEN Cao-Cuong. I have been programming extensively in Python for almost 3 years now and I still learn this language everydays. I'm relatively comfortable throughtout the language, having used it for a variety of simulations or build the web applications (Django).
 
 ==================
 Table of Contents
